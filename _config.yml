@@ -16,9 +16,9 @@ title_separator          : "-"
 subtitle                 : "A Hacking community"
 name                     : &name "RedTeam RD" # &name is a YAML anchor which can be *referenced later
 description              : &description "Hack the planet"
-url                      : https://RedTeamRD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jonathanerc.github.io/RedTeamRD.github.io/ #https://RedTeamRD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "redteamrd/RedTeamRD.github.io"
+repository               : JonathanERC/RedTeamRD.github.io #"redteamrd/RedTeamRD.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
