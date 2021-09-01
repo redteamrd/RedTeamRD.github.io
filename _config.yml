@@ -305,7 +305,7 @@ defaults:
         nav: "docs"
   # _docs
   - scope:
-      path: ""
+      path: "_docs"
       type: pages
     values:
       layout: single
