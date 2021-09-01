@@ -31,7 +31,7 @@ main:
 
 
 # documentation links
-docs:
+pages:
   - title: Red Team
     children:
       - title: "Windows"
