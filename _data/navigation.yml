@@ -23,11 +23,11 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Comunidad"
-    url: /lorem-ipsum/
+    url: /sample-page/
   - title: "Meetups"
-    url: /lorem-ipsum/
+    url: /splash-page/
   - title: "Acerca de"
-    url: /lorem-ipsum/
+    url: /about/
 
 
 # documentation links
@@ -39,27 +39,27 @@ docs:
       - title: "GNU/Linux"
         url: /docs/Linux/
       - title: "Wireless"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "Hardware"
-        url: /lorem-ipsum/
+        url: /sample-page/
   - title: Blue Team
     children:
       - title: "Windows"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "GNU/Linux"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "SIEM"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "Networking"
-        url: /lorem-ipsum/
+        url: /sample-page/
   - title: Extras
     children:
       - title: "Historia"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "Redes Sociales"
-        url: /lorem-ipsum/
+        url: /sample-page/
       - title: "Contribuir"
-        url: /lorem-ipsum/
+        url: /sample-page/
 
 # sidebar navigation list sample
 sidebar-sample:
