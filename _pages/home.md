@@ -4,35 +4,37 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/rt-home-page-feature.jpg
   actions:
-    - label: "<i class='fab fa-hackerrank'></i> Join us"
-      url: "/"
+    - label: "<i class='fab fa-hackerrank'></i> H4ck y0ur w4y 1n"
+      url: "/h4ck"
 excerpt: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br />
-  <small><a href="#">Lorem Ipsum</a></small>
+  Comunidad que busca reunir personas interesadas en ciberseguridad, proveyendo una espacio de colaboración y apoyo donde podamos aprender, enseñar, e inspirar a contribuir en mejorar la conciencia y el nivel técnico de ciberseguridad en la República Dominicana y el mundo.<br/>
+intro: 
+  - excerpt: 'Plataformas'
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/rt-tryhackme-feature.png
+    alt: "Try Hack Me"
+    title: "TryHackMe"
+    excerpt: "¿Quién será el próximo *King of The Hill*?"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/rt-htb-feature.png
+    alt: "Hack The Box"
+    title: "HackTheBox"
+    excerpt: "Sigue el recorrido de nuestros miembros en máquinas, retos y CTF de HackTheBox."
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/rt-vulnhub-feature.png
+    alt: "Vuln Hub"
+    title: "VulnHub"
+    excerpt: "¡Lo que sea!"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
