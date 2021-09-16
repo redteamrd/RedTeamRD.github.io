@@ -1,0 +1,42 @@
+# main links
+main:
+  - title: "Posts"
+    url: /maintenance/
+  - title: "Comunidad"
+    url: /maintenance/
+  - title: "Meetups"
+    url: /maintenance/
+  - title: "Acerca de"
+    url: /maintenance/
+
+
+# documentation links
+docs:
+  - title: Red Team
+    children:
+      - title: "Windows"
+        url: /maintenance/ #/docs/Windows/
+      - title: "GNU/Linux"
+        url: /maintenance/
+      - title: "Wireless"
+        url: /maintenance/
+      - title: "Hardware"
+        url: /maintenance/
+  - title: Blue Team
+    children:
+      - title: "Windows"
+        url: /maintenance/
+      - title: "GNU/Linux"
+        url: /maintenance/
+      - title: "SIEM"
+        url: /maintenance/
+      - title: "Networking"
+        url: /maintenance/
+  - title: Extras
+    children:
+      - title: "Historia"
+        url: /maintenance/
+      - title: "Redes Sociales"
+        url: /maintenance/
+      - title: "Contribuir"
+        url: /maintenance/
