@@ -6,10 +6,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/rt-home-page-feature.jpg
   actions:
-    - label: "<i class='fab fa-hackerrank'></i> H4ck y0ur w4y 1n"
+    - label: "<i class='fab fa-hackerrank'></i> H4CK Y0UR W4Y 1N"
       url: "/h4ck"
 excerpt: >
   Comunidad que busca reunir personas interesadas en ciberseguridad, proveyendo una espacio de colaboración y apoyo donde podamos aprender, enseñar, e inspirar a contribuir en mejorar la conciencia y el nivel técnico de ciberseguridad en la República Dominicana y el mundo.<br/>
+  ¿Tienes lo necesario para unirte a nosotros?
 intro: 
   - excerpt: 'Plataformas'
 feature_row:

@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Posts"
-    url: /posts/
+    url: /maintenance/
   - title: "Comunidad"
-    url: /sample-page/
+    url: /maintenance/
   - title: "Meetups"
-    url: /splash-page/
+    url: /maintenance/
   - title: "Acerca de"
-    url: /about/
+    url: /maintenance/
 
 
 # documentation links
@@ -15,28 +15,28 @@ docs:
   - title: Red Team
     children:
       - title: "Windows"
-        url: /docs/Windows/
+        url: /maintenance/ #/docs/Windows/
       - title: "GNU/Linux"
-        url: /docs/Linux/
+        url: /maintenance/
       - title: "Wireless"
-        url: /sample-page/
+        url: /maintenance/
       - title: "Hardware"
-        url: /sample-page/
+        url: /maintenance/
   - title: Blue Team
     children:
       - title: "Windows"
-        url: /sample-page/
+        url: /maintenance/
       - title: "GNU/Linux"
-        url: /sample-page/
+        url: /maintenance/
       - title: "SIEM"
-        url: /sample-page/
+        url: /maintenance/
       - title: "Networking"
-        url: /sample-page/
+        url: /maintenance/
   - title: Extras
     children:
       - title: "Historia"
-        url: /sample-page/
+        url: /maintenance/
       - title: "Redes Sociales"
-        url: /sample-page/
+        url: /maintenance/
       - title: "Contribuir"
-        url: /sample-page/
+        url: /maintenance/
