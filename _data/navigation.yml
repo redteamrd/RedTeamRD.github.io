@@ -1,12 +1,69 @@
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
+
+
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /posts/
+  - title: "Comunidad"
+    url: /sample-page/
+  - title: "Meetups"
+    url: /splash-page/
+  - title: "Acerca de"
+    url: /about/
+
+
+# documentation links
+docs:
+  - title: Red Team
+    children:
+      - title: "Windows"
+        url: /docs/Windows/
+      - title: "GNU/Linux"
+        url: /docs/Linux/
+      - title: "Wireless"
+        url: /sample-page/
+      - title: "Hardware"
+        url: /sample-page/
+  - title: Blue Team
+    children:
+      - title: "Windows"
+        url: /sample-page/
+      - title: "GNU/Linux"
+        url: /sample-page/
+      - title: "SIEM"
+        url: /sample-page/
+      - title: "Networking"
+        url: /sample-page/
+  - title: Extras
+    children:
+      - title: "Historia"
+        url: /sample-page/
+      - title: "Redes Sociales"
+        url: /sample-page/
+      - title: "Contribuir"
+        url: /sample-page/
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
