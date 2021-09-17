@@ -7,8 +7,6 @@ tags:
   - PlainText
   - BlueTeam
 ---
-English [here](/100DaysOfBlueTeam_EN/)
-
 El 2020 llegó con muchas sorpresas para todos, COVID, distanciamiento social, trabajo remoto y PlainText decidió hacer una pausa en su jornada de aprendizaje de RedTeam para aprender algunas cosas de BlueTeam. 
 
 Y así fue, mientras estaba mirando el Twitter me encontré con el [tweet](https://twitter.com/takito1812/status/1310834159909326848?s=20) de mi amigo Víctor García, cariñosamente [Takito](https://twitter.com/takito1812), hablando sobre el reto #100DaysOfCode, me pareció super interesante, ya que soy una persona que le gustan los retos, y creí oportuno utilizar esta metodología para aprender de temas de BlueTeam. Fue en ese entonces que decidí aplicar las reglas de #100DaysOfCode a mi propio reto #100DaysOfBlueTeam. 
