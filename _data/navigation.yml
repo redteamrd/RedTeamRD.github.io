@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Posts"
+    url: /posts/
+  - title: "Meetups"
     url: /maintenance/
   - title: "Comunidad"
-    url: /maintenance/
-  - title: "Meetups"
     url: /maintenance/
   - title: "Acerca de"
     url: /maintenance/

@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/rt-home-page-feature.jpg
+  overlay_image: /assets/images/main/rt-home-page-feature.jpg
   actions:
     - label: "<i class='fab fa-hackerrank'></i> H4CK Y0UR W4Y 1N"
       url: "/h4ck"
@@ -12,26 +12,26 @@ excerpt: >
   Comunidad que busca reunir personas interesadas en ciberseguridad, proveyendo una espacio de colaboración y apoyo donde podamos aprender, enseñar, e inspirar a contribuir en mejorar la conciencia y el nivel técnico de ciberseguridad en la República Dominicana y el mundo.<br/><br/>
   **¿Tienes lo necesario para unirte a nosotros?**
 intro: 
-  - excerpt: 'Plataformas'
+  - excerpt: '**Plataformas**'
 feature_row:
-  - image_path: /assets/images/rt-tryhackme-feature.png
-    alt: "Try Hack Me"
-    title: "TryHackMe"
-    excerpt: "¿Quién será el próximo *King of The Hill*?"
+  - image_path: /assets/images/main/rt-codewars-feature.png
+    alt: "Code Wars"
+    title: "CodeWars"
+    excerpt: "¿Quién será el próximo *Master* del Dojo?"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/rt-htb-feature.png
+  - image_path: /assets/images/main/rt-htb-feature.png
     alt: "Hack The Box"
     title: "HackTheBox"
-    excerpt: "Sigue el recorrido de nuestros miembros en máquinas, retos y CTF de HackTheBox."
+    excerpt: "Sigue el recorrido de nuestros miembros en máquinas, retos y CTF."
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/rt-vulnhub-feature.png
+  - image_path: /assets/images/main/rt-vulnhub-feature.png
     alt: "Vuln Hub"
     title: "VulnHub"
-    excerpt: "¡Lo que sea!"
+    excerpt: "Descarga las VM de la comunidad y ¡demuestra de lo que estas hecho!"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
