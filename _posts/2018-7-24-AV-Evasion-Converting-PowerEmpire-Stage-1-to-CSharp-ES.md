@@ -2,9 +2,8 @@
 title: Evasión de AV convirtiendo el Stage 1 de PowerEmpire a CSharp
 classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - AV
   - Powershell
   - C#

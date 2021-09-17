@@ -1,9 +1,8 @@
 ---
 title: Buenas Practicas para Firewalls / NGFW
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - Firewall
   - NGFW
 ---
