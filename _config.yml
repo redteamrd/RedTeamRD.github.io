@@ -227,7 +227,7 @@ kramdown:
 
 # Collections
 collections:
-  collection:
+  docs:
     output: true
     permalink: /:collection/:path/
 
