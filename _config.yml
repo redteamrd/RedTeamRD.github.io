@@ -225,6 +225,16 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
