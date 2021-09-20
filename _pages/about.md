@@ -16,11 +16,11 @@ last_modified_at: 2021-05-11T10:23:16-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Comunidad creada para reunir personas interesadas en ciberseguridad, proveyendo una espacio de colaboración y apoyo donde podamos aprender, enseñar, e inspirar a contribuir en mejorar la conciencia y el nivel técnico de ciberseguridad en nuestro país y el mundo.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+[H4CK Y0UR W4Y 1N]({{ "/h4ck/" | relative_url }}){: .btn .btn--danger .btn--large}
 
 ## Notable Features
 
@@ -73,4 +73,4 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Cualquiera que esté interesado en la seguridad cibernética y el pentesting debe unirse a este grupo. El propósito es conocer a otros entusiastas de la seguridad informática, discutir, intercambiar conocimientos sobre seguridad cibernética, hackear máquinas de **Hack The Box** y disfrutar.
