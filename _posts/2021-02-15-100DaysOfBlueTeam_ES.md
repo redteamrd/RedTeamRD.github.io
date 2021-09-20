@@ -1,7 +1,6 @@
 ---
 title: 100 Days Of BlueTeam
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

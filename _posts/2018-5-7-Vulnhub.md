@@ -1,7 +1,6 @@
 ---
 title: “Vulnhub”
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

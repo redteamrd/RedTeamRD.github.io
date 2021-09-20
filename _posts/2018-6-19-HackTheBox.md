@@ -1,7 +1,6 @@
 ---
 title: HackTheBox
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

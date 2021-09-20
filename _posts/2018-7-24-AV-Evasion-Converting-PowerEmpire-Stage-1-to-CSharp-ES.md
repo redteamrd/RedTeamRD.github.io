@@ -1,7 +1,6 @@
 ---
 title: Evasión de AV convirtiendo el Stage 1 de PowerEmpire a CSharp
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Buenas Practicas para Firewalls / NGFW
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

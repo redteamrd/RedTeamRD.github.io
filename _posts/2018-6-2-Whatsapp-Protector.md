@@ -1,7 +1,6 @@
 ---
 title: “WhatsApp Protector”
 classes: wide
-collection: posts
 categories:
   - PlainText
 tags:

@@ -1,7 +1,6 @@
 ---
 title: Wifi cracking CTF (RedteamRD)
 classes: wide
-collection: posts
 categories:
   - JamielSP
 tags:
