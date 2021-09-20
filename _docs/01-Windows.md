@@ -4,10 +4,6 @@ permalink: /docs/Windows/
 excerpt: "Windows"
 last_modified_at: 2021-08-31T08:48:05-04:00
 toc: true
-categories:
-  - Edge Case
-tags:
-  - content
 ---
 
 # Hic poterat iubet
