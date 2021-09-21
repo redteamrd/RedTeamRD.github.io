@@ -7,12 +7,11 @@ categories:
   - RedTeamRD
 tags:
   - Meetups
-toc: true
 ---
 
 Listado de Meetups grabados:
 
-[![1-meetup-grabado](/assets/images/1-meetup-grabado.jpg)](/about/){: .align-left} Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.
+[![1-meetup-grabado](/assets/images/bio-photo.png)](/about/){: .align-left} Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.
 
 ![2-meetup-grabado](/assets/images/2-meetup-grabado.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
