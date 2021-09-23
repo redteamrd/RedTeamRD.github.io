@@ -12,17 +12,9 @@ tags:
 
 Listado de Meetups grabados:
 
-<p>
-
-[![1-meetup-grabado](/assets/images/main/meetups/1-meetup-grabado.jpg)](/redteamrd/Online-Meetup-RedTeamRD/){: .align-left} **Online Meetup RedTeamRD** - Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.
-
-</p>
+<p>[![1-meetup-grabado](/assets/images/main/meetups/1-meetup-grabado.jpg)](/redteamrd/Online-Meetup-RedTeamRD/){: .align-left} **Online Meetup RedTeamRD** - Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.</p>
 ---
-<p>
-
-[![2-meetup-grabado](/assets/images/main/meetups/2-meetup-grabado.jpg)](/redteamrd/Online-Post-Explotation-Meetup-RedTeamRD){: .align-left} **Online Post-Explotation Meetup RedTeamRD** - En esta ocasión estaremos hablando de **Post-Exploitation**, en esta primera parte hablaremos de **Escalación de Privilegios**.
-
-</p>
+<p>[![2-meetup-grabado](/assets/images/main/meetups/2-meetup-grabado.jpg)](/redteamrd/Online-Post-Explotation-Meetup-RedTeamRD){: .align-left} **Online Post-Explotation Meetup RedTeamRD** - En esta ocasión estaremos hablando de **Post-Exploitation**, en esta primera parte hablaremos de **Escalación de Privilegios**.</p>
 ---
 <p>
 
@@ -84,11 +76,7 @@ Listado de Meetups grabados:
 
 </p>
 ---
-<p>
-
-[![13-meetup-grabado](/assets/images/main/meetups/13-meetup-grabado.jpg)](/redteamrd/Spectra-y-Abuso-de-Dropbox-python-Dll){: .align-left} **Spectra & Abuso de Dropbox python.dll** - La Comunidad de **RedTeamRD**, dividimos el evento en 2 partes. En la 1ra parte trabajaremos con **Spectra** de *HackTheBox*, es una maquina en **GNU/Linux** y En la 2da parte estaremos discutiendo con **Julio Ureña**, cómo descubrió la forma de ejecutar scripts de *Python* **sin tener Python instalado** en el equipo, abusando los archivos de instalación de *Dropbox*.
-
-</p>
+<p>[![13-meetup-grabado](/assets/images/main/meetups/13-meetup-grabado.jpg)](/redteamrd/Spectra-y-Abuso-de-Dropbox-python-Dll){: .align-left} **Spectra & Abuso de Dropbox python.dll** - La Comunidad de **RedTeamRD**, dividimos el evento en 2 partes. En la 1ra parte trabajaremos con **Spectra** de *HackTheBox*, es una maquina en **GNU/Linux** y En la 2da parte estaremos discutiendo con **Julio Ureña**, cómo descubrió la forma de ejecutar scripts de *Python* **sin tener Python instalado** en el equipo, abusando los archivos de instalación de *Dropbox*.</p>
 ---
 <p>
  
