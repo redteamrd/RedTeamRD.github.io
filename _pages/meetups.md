@@ -34,31 +34,26 @@ tags:
 
 [![4-meetup-grabado](/assets/images/main/meetups/4-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Del-Barrio-para-el-mundo){: .align-left} **RedTeamRD Del Barrio para el mundo** - En esta ocasión tendremos un enfoque totalmente diferente donde algunos miembros de la comunidad compartirán sus **experiencias**, **historias de superación** y el camino que han recorrido como **profesionales**.
 
-<br>
 
 ---
 
 [![5-meetup-grabado](/assets/images/main/meetups/5-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Meetup-de-Aniversario){: .align-left} **RedTeamRD Meetup de Aniversario** - Evento donde contaremos con la presencia de algunos invitados especiales incluyendo el [CEO de HackTheBox](https://twitter.com/hpylarinos) y parte de su equipo. Luego tendremos 2 charlas una de [Carlos Perez](https://twitter.com/Carlos_Perez) de **TrustedSec** y otra de [Jaime Restrepo](https://twitter.com/JaimeARestrepo_) el **CEO de DragonJar**.
 
-<br>
 
 ---
 
 [![6-meetup-grabado](/assets/images/main/meetups/6-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Detection){: .align-left} **RedTeamRD Detection** - El **RedTeamRD** pinta de **azul** a nuestra comunidad y trabajaremos una maquina de **HackTheBox (Active)** y veremos como detectar los ataques a esta máquina, de igual forma podremos entender los mecanismos de detección para tratar de evitarlos.
 
-<br>
 
 ---
 
 [![7-meetup-grabado](/assets/images/main/meetups/7-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Meetup-Wifi-Hacking){: .align-left} **RedTeamRD Meetup Wifi Hacking** - En esta oportunidad entraremos en el mundo de **Wireless** y contaremos con la participación de un invitado especial, el único OSWP de *República Dominicana*, **Eduardo Guzman** quien nos estará contando un poco de su experiencia en **Wifi hacking**, hablará un poco de la certificación y nos mostrará ejemplos prácticos de cómo se puede abusar de redes inalambricas.
 
-<br>
 
 ---
 
 [![8-meetup-grabado](/assets/images/main/meetups/8-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Meetup-JOKER){: .align-left} **RedTeamRD Meetup JOKER** - Queremos cerrar el año trabajando la maquina **Joker**. Es una maquina basada en *GNU/Linux* que trabaja como proxy, así como su nombre lo indica intentará jugarnos un mal rato bloqueando todo, pero buscaremos la forma de enumerar las reglas de *firewall* para tener acceso.
 
-<br>
 
 ---
 
@@ -76,24 +71,21 @@ tags:
 
 [![11-meetup-grabado](/assets/images/main/meetups/11-meetup-grabado.jpg)](/redteamrd/Apoderandome-de-la-red-con-un-password){: .align-left} **Apoderándome de la red con un password** - La Comunidad de **RedTeamRD** tendrá su Meetup y contaremos con la participación de **Jose Felix (r0ok1e)** para conversar sobre como un atacante podría apoderarse de la red con un solo password y cómo podríamos evitarlo.
 
-<br>
 
 ---
 
 [![12-meetup-grabado](/assets/images/main/meetups/12-meetup-grabado.jpg)](/redteamrd/La-Perspectiva-del-CISO){: .align-left} **La Perspectiva del CISO** - La Comunidad de **RedTeamRD** tendrá su Meetup y contaremos con la participación de **Dayner Feliz**, CISO y Vicepresidente de Seguridad Cibernética y de la Información en el **Banco Lopez de Haro**, República Dominicana.
 
-<br>
 
 ---
 
 [![13-meetup-grabado](/assets/images/main/meetups/13-meetup-grabado.jpg)](/redteamrd/Spectra-y-Abuso-de-Dropbox-python-Dll){: .align-left} **Spectra & Abuso de Dropbox python.dll** - La Comunidad de **RedTeamRD**, dividimos el evento en 2 partes. En la 1ra parte trabajaremos con **Spectra** de *HackTheBox*, es una maquina en **GNU/Linux** y En la 2da parte estaremos discutiendo con **Julio Ureña**, cómo descubrió la forma de ejecutar scripts de *Python* **sin tener Python instalado** en el equipo, abusando los archivos de instalación de *Dropbox*.
 
-<br>
-
 ---
  
 [![14-meetup-grabado](/assets/images/main/meetups/14-meetup-grabado.jpg)](/redteamrd/RedTeamRD-Meetup-Heist){: .align-left} **RedTeamRD Meetup Heist** - La Comunidad de **RedTeamRD** tendrá su Meetup de **HackTheBox** y traemos *Heist*.
 
+<br>
 <br>
 
 ---
