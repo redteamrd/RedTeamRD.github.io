@@ -2,9 +2,8 @@
 title: Campaña de concientización sobre Phishing
 classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - Phishing
 ---
 

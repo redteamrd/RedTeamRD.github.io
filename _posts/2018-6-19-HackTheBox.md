@@ -2,9 +2,8 @@
 title: HackTheBox
 classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - HTB
 ---
 

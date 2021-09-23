@@ -2,9 +2,8 @@
 title: 100 Days Of BlueTeam
 classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - BlueTeam
 ---
 El 2020 llegó con muchas sorpresas para todos, COVID, distanciamiento social, trabajo remoto y PlainText decidió hacer una pausa en su jornada de aprendizaje de RedTeam para aprender algunas cosas de BlueTeam. 

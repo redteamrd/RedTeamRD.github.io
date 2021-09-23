@@ -1,9 +1,9 @@
 ---
 title: “WhatsApp Protector”
+classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - C#
   - FortiNet
   - Phishing

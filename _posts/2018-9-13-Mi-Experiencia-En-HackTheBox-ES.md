@@ -2,9 +2,8 @@
 title: Mi Experiencia en HackTheBox 
 classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - HTB
 ---
 

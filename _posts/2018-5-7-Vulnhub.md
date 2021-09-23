@@ -1,9 +1,9 @@
 ---
 title: “Vulnhub”
+classes: wide
 categories:
-  - Post
-tags:
   - PlainText
+tags:
   - VulnHub
   - CTF
 ---

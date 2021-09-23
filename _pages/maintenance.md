@@ -7,5 +7,5 @@ share: false
 sidebar:
     nav: ""
 header:
-  image: /assets/images/main/rt-maintenance.png
+  image: /assets/images/main/maintenance/rt-maintenance.png
 ---
