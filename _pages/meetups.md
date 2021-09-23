@@ -13,11 +13,13 @@ tags:
 Listado de Meetups grabados:
 
 [![1-meetup-grabado](/assets/images/main/meetups/1-meetup-grabado.jpg)](/redteamrd/Online-Meetup-RedTeamRD/){: .align-left} **Online Meetup RedTeamRD** - Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.
-</br>
+\
+\
 ---
 
 [![2-meetup-grabado](/assets/images/main/meetups/2-meetup-grabado.jpg)](/redteamrd/Online-Post-Explotation-Meetup-RedTeamRD){: .align-left} **Online Post-Explotation Meetup RedTeamRD** - En esta ocasión estaremos hablando de **Post-Exploitation**, en esta primera parte hablaremos de **Escalación de Privilegios**.
-</br>
+\
+\
 ---
 
 [![3-meetup-grabado](/assets/images/main/meetups/3-meetup-grabado.jpg)](/redteamrd/Online-Meetup-RedTeamRD-EndGame-POO){: .align-left} **Online Meetup RedTeamRD EndGame P.O.O** - La Comunidad de **RedTeamRD** tendrá su Meetup de **HackTheBox**. En esta ocasión estaremos trabajando **EndGame P.O.O**, un laboratorio de HackTheBox.
