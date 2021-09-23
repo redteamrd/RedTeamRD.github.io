@@ -12,6 +12,8 @@ tags:
 
 ### Listado de Meetups grabados:
 
+<br>
+
 [![1-meetup-grabado](/assets/images/main/meetups/1-meetup-grabado.jpg)](/redteamrd/Online-Meetup-RedTeamRD/){: .align-left} **Online Meetup RedTeamRD** - Primer Meetup grabado con un invitado especial, [@dplastico](https://twitter.com/dplastico) **OSCP**, **OSCE**, quien nos hablará de **AV Bypass**, **PE Backdoors**.
 
 <br>
