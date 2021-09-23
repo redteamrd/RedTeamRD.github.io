@@ -73,20 +73,19 @@ Listado de Meetups grabados:
 ---
 
 [![11-meetup-grabado](/assets/images/main/meetups/11-meetup-grabado.jpg)](/redteamrd/Apoderandome-de-la-red-con-un-password){: .align-left} **Apoderándome de la red con un password** - La Comunidad de **RedTeamRD** tendrá su Meetup y contaremos con la participación de **Jose Felix (r0ok1e)** para conversar sobre como un atacante podría apoderarse de la red con un solo password y cómo podríamos evitarlo.
-
   
 
 ---
 
 [![12-meetup-grabado](/assets/images/main/meetups/12-meetup-grabado.jpg)](/redteamrd/La-Perspectiva-del-CISO){: .align-left} **La Perspectiva del CISO** - La Comunidad de **RedTeamRD** tendrá su Meetup y contaremos con la participación de **Dayner Feliz**, CISO y Vicepresidente de Seguridad Cibernética y de la Información en el **Banco Lopez de Haro**, República Dominicana.
 
-  
+<br>
 
 ---
 
 [![13-meetup-grabado](/assets/images/main/meetups/13-meetup-grabado.jpg)](/redteamrd/Spectra-y-Abuso-de-Dropbox-python-Dll){: .align-left} **Spectra & Abuso de Dropbox python.dll** - La Comunidad de **RedTeamRD**, dividimos el evento en 2 partes. En la 1ra parte trabajaremos con **Spectra** de *HackTheBox*, es una maquina en **GNU/Linux** y En la 2da parte estaremos discutiendo con **Julio Ureña**, cómo descubrió la forma de ejecutar scripts de *Python* **sin tener Python instalado** en el equipo, abusando los archivos de instalación de *Dropbox*.
 
-  
+</br>
 
 ---
  
